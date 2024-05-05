@@ -44,6 +44,7 @@ body {
   }
   
   #search-button:hover {
+    cursor: pointer;  
     background-color: #3e8e41;
   }
   
